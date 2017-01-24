@@ -1,0 +1,11 @@
+{
+  "generator-isomorphism-koa2-react": {
+    "promptValues": {
+      "name": "koa-react",
+      "version": "1.0.0",
+      "description": "",
+      "git_repository": "",
+      "author": ""
+    }
+  }
+}
